@@ -1,12 +1,14 @@
-# Animated-Portfolio
-<hr>  
+<h1>AnimatedPortfolio</h1>
+<h2><u>Live Project Link</u> :-  https://whoakarsh.netlify.app/ </h2>
+<h4>A fully responsive portfolio designed using HTML, CSS, JavaScript, Jquery, Bootstrap with extensive use of Bitmojis, box-shadow property and css animations.</h4>
 
-https://whoakarsh.netlify.app/
-
-It's my fuly responsive portfolio made using basic frontend techniques-><br>
-@HTML,<br>
-@CSS,<br>
-@JavaScript,<br>
-@Bootstrap <br>  
-
-The portfolio is best viewed in mobile or desktop mode.
+<h4>Tools used :-
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Jquery</li>
+        <li>Bootstrap</li>
+    </ul>
+</h4>
+                
